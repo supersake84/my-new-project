@@ -1,5 +1,4 @@
-# Project Title
-Building AI cource project
+# Building AI cource project
 
 Final project for the Building AI course
 
